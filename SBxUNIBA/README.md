@@ -1,6 +1,6 @@
 #SBxUNIBA
 不定期で開催している、SHIFTBRAIN Inc.とUniba Inc.の合同勉強会。  
-内容な様々で、その時両社で気になっている技術をテーマにやってます。
+内容は様々で、その時両社で気になっている技術をテーマにやってます。
 
 ##第2回 [testing](https://github.com/kaminaly/StudySession/tree/master/SBxUNIBA/testing)
 JSのテスト（TDD/BDD）についての勉強会でした。  
